@@ -14,4 +14,6 @@ All quotes are sourced from https://en.wikiquote.org
 
 - Linus
 - Martin
-- etc
+- Alan
+- Larry
+- Bjarne
